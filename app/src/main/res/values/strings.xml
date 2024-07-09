@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GridListSpinnerView</string>
+    <string-array name="alphabets_array">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Carrot</item>
+        <item>Onion</item>
+        <item>cosm</item>
+        <item>Cart</item>
+        <item>none</item>
+        <item>Banana</item>
+        <item>Carrot</item>
+        <item>none</item>
+    </string-array>
+</resources>
